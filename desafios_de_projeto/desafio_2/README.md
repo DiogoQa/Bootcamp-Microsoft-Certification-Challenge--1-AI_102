@@ -92,7 +92,7 @@ curl -sSL https://install.python-poetry.org | python3 -
 ```
 4. Configure o ambiente virtual e instale as dependências:
 ```bash
-poetry install --no-root 
+poetry install --without dev 
 ```
 5. Acessa o ambiente virtual:
 ```bash
