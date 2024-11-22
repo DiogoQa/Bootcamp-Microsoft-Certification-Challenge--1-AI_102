@@ -92,15 +92,19 @@ curl -sSL https://install.python-poetry.org | python3 -
 ```
 4. Configure o ambiente virtual e instale as dependências:
 ```bash
-poetry install
+poetry install --no-root 
+```
+5. Acessa o ambiente virtual:
+```bash
+poetry shell
 ```
 
-5. Configure as variáveis de ambiente:
+6. Configure as variáveis de ambiente:
 ```bash
 cp .env.example .env
 ```
 
-6. Edite o arquivo `.env` com suas credenciais:
+7. Edite o arquivo `.env` com suas credenciais:
 ```env
 AZURE_DOC_INT_ENDPOINT=seu_endpoint_doc_intelligence
 AZURE_DOC_INT_KEY=sua_chave_doc_intelligence
@@ -110,15 +114,15 @@ DATABASE_PATH=../data/credit_cards.db
 ```
 * **Caso tenha dificuldades fiz um guia de como obter as credenciais aqui:[guia passo a passo](https://github.com/Jcnok/Bootcamp-Microsoft-Certification-Challenge--1-AI_102/blob/master/desafios_de_projeto/desafio_2/azure_services_guide.md)**
   
-7. Acesse o diretório do projeto:
+8. Acesse o diretório do projeto:
 ```bash
 cd desafios_de_projeto/desafio_2/
 ```   
-1. Execute a aplicação:
+9. Execute a aplicação:
 ```bash
 streamlit run app.py
 ```
-1. Acesse: http://localhost:8501
+10. Acesse: http://localhost:8501
 
 
 ### 🐳 Execução com Docker
