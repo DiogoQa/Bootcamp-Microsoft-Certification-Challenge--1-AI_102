@@ -77,6 +77,8 @@ O Credit Card Analyzer é uma aplicação web moderna que simplifica o processo 
 ### 💻 Execução Local
 [🔝 Voltar ao índice](#-índice)
 
+![img](./img/local_user_guide.gif)
+
 1. Clone o repositório:
 ```bash
 git clone https://github.com/Jcnok/Bootcamp-Microsoft-Certification-Challenge--1-AI_102.git
