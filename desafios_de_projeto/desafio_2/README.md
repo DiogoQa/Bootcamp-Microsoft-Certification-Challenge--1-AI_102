@@ -118,7 +118,7 @@ DATABASE_PATH=../data/credit_cards.db
   
 8. Acesse o diretório do projeto:
 ```bash
-cd desafios_de_projeto/desafio_2/
+cd desafios_de_projeto/desafio_2/src
 ```   
 9. Execute a aplicação:
 ```bash
