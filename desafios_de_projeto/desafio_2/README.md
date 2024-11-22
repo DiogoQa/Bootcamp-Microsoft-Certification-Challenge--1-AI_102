@@ -132,7 +132,7 @@ streamlit run app.py
 
 1. Acesse a pasta onde o arquivo `Dockerfile` está localizado:
 ```bash
-cd desafios_de_projeto/desafio_2/ 
+cd desafios_de_projeto/desafio_2/src 
 ```
 
 2. Build e execução:
