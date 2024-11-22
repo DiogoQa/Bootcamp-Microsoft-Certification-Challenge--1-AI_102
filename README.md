@@ -66,8 +66,7 @@ Este bootcamp oferece uma oportunidade única de aprendizado e certificação em
 *(A serem atualizados conforme o andamento do bootcamp)*
 
 - Projeto 1: [Tradutor Multifuncional](https://github.com/Jcnok/Bootcamp-Microsoft-Certification-Challenge--1-AI_102/tree/master/desafios_de_projeto/desafio_1#-tradutor-multifuncional)
-- Projeto 2: [Nome do Projeto]()
-- Projeto 3: [Nome do Projeto]()
+- Projeto 2: [Análise de Documentos Anti-fraude com AzureAI](https://github.com/Jcnok/Bootcamp-Microsoft-Certification-Challenge--1-AI_102/tree/master/desafios_de_projeto/desafio_2#-credit-card-analyzer)
 
 ### 💻 Desafios de Código
 *(A serem atualizados conforme o andamento do bootcamp)*
