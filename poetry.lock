@@ -43,6 +43,22 @@ tests = ["cloudpickle", "hypothesis", "mypy (>=1.11.1)", "pympler", "pytest (>=4
 tests-mypy = ["mypy (>=1.11.1)", "pytest-mypy-plugins"]
 
 [[package]]
+name = "azure-ai-documentintelligence"
+version = "1.0.0b4"
+description = "Microsoft Azure AI Document Intelligence Client Library for Python"
+optional = false
+python-versions = ">=3.8"
+files = [
+    {file = "azure_ai_documentintelligence-1.0.0b4-py3-none-any.whl", hash = "sha256:c3a90560b4029e232dbab1334ac2f3dda4cae7c1f60dad277fe21a876dd6bb9f"},
+    {file = "azure_ai_documentintelligence-1.0.0b4.tar.gz", hash = "sha256:1aa36f0617b0c129fdc82b039b7084fd5b69af08e8e0cb500108b9f6efd61b36"},
+]
+
+[package.dependencies]
+azure-core = ">=1.30.0"
+isodate = ">=0.6.1"
+typing-extensions = ">=4.6.0"
+
+[[package]]
 name = "azure-core"
 version = "1.32.0"
 description = "Microsoft Azure Core Library for Python"
@@ -2009,4 +2025,4 @@ watchmedo = ["PyYAML (>=3.10)"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.12"
-content-hash = "13282b4f8643d63d6a1be1c554eb8af0afb071d2efc4179a9d2435324cfc3fbe"
+content-hash = "f43ec08c46577ce3f25cb7eaa2ca3296bef59fa67f9a6f11803cceca48c3bdcb"
