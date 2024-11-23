@@ -15,4 +15,4 @@ COPY src/ ./src/
 EXPOSE 8501 
 
 # Comando para executar a aplicação
-CMD ["streamlit", "run", "src/app.py", "--server.address", "0.0.0.0"]
+CMD ["/bin/sh", "-c","cd src && streamlit run app.py --server.address 0.0.0.0"]
