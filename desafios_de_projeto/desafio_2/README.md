@@ -130,6 +130,8 @@ streamlit run app.py
 ### 🐳 Execução com Docker
 [🔝 Voltar ao índice](#-índice)
 
+![img](./img/docker_user_guide.gif)
+
 1. Acesse a pasta onde o arquivo `Dockerfile` está localizado:
 ```bash
 cd desafios_de_projeto/desafio_2
