@@ -8,6 +8,8 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
+![img](./img/demo.gif)
+
 ## 📁 Estrutura do Projeto
 ```bash
 credit-card-analyzer/
