@@ -63,13 +63,11 @@ Este bootcamp oferece uma oportunidade única de aprendizado e certificação em
 ## 📂 Índice de Desafios
 
 ### 🚀 Desafios de Projeto
-*(A serem atualizados conforme o andamento do bootcamp)*
 
 - Projeto 1: [Tradutor Multifuncional](https://github.com/Jcnok/Bootcamp-Microsoft-Certification-Challenge--1-AI_102/tree/master/desafios_de_projeto/desafio_1#-tradutor-multifuncional)
 - Projeto 2: [Análise de Documentos Anti-fraude com AzureAI](https://github.com/Jcnok/Bootcamp-Microsoft-Certification-Challenge--1-AI_102/tree/master/desafios_de_projeto/desafio_2#-credit-card-analyzer)
 
 ### 💻 Desafios de Código
-*(A serem atualizados conforme o andamento do bootcamp)*
 
 - Código 1: [Associando os Conceitos de IA](https://github.com/Jcnok/Bootcamp-Microsoft-Certification-Challenge--1-AI_102/tree/master/desafios_de_codigo#associando-os-conceitos-de-ia)
 - Código 2: [Associando os Benefícios da IA no Azure](https://github.com/Jcnok/Bootcamp-Microsoft-Certification-Challenge--1-AI_102/tree/master/desafios_de_codigo#associando-os-benef%C3%ADcios-da-ia-no-azure)
@@ -77,9 +75,11 @@ Este bootcamp oferece uma oportunidade única de aprendizado e certificação em
 
 ## 🎯 Conclusão e Opinião Pessoal
 
-Como profissional em constante evolução na área de tecnologia, este bootcamp representa uma oportunidade excepcional de aprimoramento em Inteligência Artificial. A combinação de aprendizado prático, certificação Microsoft e a possibilidade de participar do Hackathon não só enriquece meu portfólio, mas também demonstra meu compromisso com a excelência técnica e inovação.
+Como profissional em constante evolução na área de tecnologia, este bootcamp representa uma oportunidade excepcional de aprimoramento em Inteligência Artificial. A combinação de aprendizado prático, certificação Microsoft e a possibilidade de participar do Hackathon não só enriquece meu portfólio, mas também demonstra meu compromisso com a excelência técnica e a inovação.
 
-A escolha deste bootcamp reflete minha determinação em me manter atualizado com as tecnologias mais recentes e minha busca por desafios que me permitam crescer profissionalmente. Através dele, estou desenvolvendo habilidades práticas em Azure e OpenAI, ferramentas essenciais no cenário atual de IA.
+Embora eu compreenda que existe um nível de aprendizado a ser equiparado e, por esse motivo, alguns conteúdos possam ser de nível básico, a fim de que todos tenham as mesmas oportunidades, tenho a leve percepção de que o conteúdo aqui proposto, por si só, não seja suficiente para obter a aprovação da certificação. No entanto, entendo que este seja um guia extremamente importante, seja pelas dicas dos colegas nos fóruns, pelas mentorias com os MVPs e pela documentação da própria Azure, para a obtenção satisfatória da certificação.
+
+Parabéns pela iniciativa e por fornecer e proporcionar o aprendizado de tantos alunos de todo o Brasil! 
 
 ## 📫 Contatos e Redes Sociais
 
@@ -90,7 +90,7 @@ Vamos nos conectar? Estou sempre aberto a novas oportunidades e networking! 🤝
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julio.okuda@gmail.com)
 
 
-### 🎯 Habilidades em Desenvolvimento
+### 🎯 Habilidades em constante Desenvolvimento
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
