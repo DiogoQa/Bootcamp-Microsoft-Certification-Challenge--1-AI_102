@@ -1,12 +1,14 @@
-# Desafios de Conceitos de Inteligência Artificial
+# Desafios de Código: Associando Conceitos de IA com Lógica de Programação.
+---
 
 <img src="img/code.png" referrerpolicy="same-origin" style="display: block; object-fit: cover; border-radius: 0px; width: 100%; height: 30vh; opacity: 1; object-position: center 50%;">
 
 ## Sobre
 
-Este repositório contém uma série de desafios focados em conceitos fundamentais de Inteligência Artificial:
+Este repositório contém uma série de desafios de código focados em conceitos de IA com Lógica de Programação:
 
 ---
+<a name="indice"></a>
 ## Índice
 
 1. [Desafio 1 - Associando os Conceitos de IA](#desafio-1)
