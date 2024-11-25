@@ -71,9 +71,9 @@ Este bootcamp oferece uma oportunidade única de aprendizado e certificação em
 ### 💻 Desafios de Código
 *(A serem atualizados conforme o andamento do bootcamp)*
 
-- Código 1: [Nome do Desafio]()
-- Código 2: [Nome do Desafio]()
-- Código 3: [Nome do Desafio]()
+- Código 1: [Associando os Conceitos de IA](https://github.com/Jcnok/Bootcamp-Microsoft-Certification-Challenge--1-AI_102/tree/master/desafios_de_codigo#associando-os-conceitos-de-ia)
+- Código 2: [Associando os Benefícios da IA no Azure](https://github.com/Jcnok/Bootcamp-Microsoft-Certification-Challenge--1-AI_102/tree/master/desafios_de_codigo#associando-os-benef%C3%ADcios-da-ia-no-azure)
+- Código 3: [Associando os Serviços de IA do Azure](https://github.com/Jcnok/Bootcamp-Microsoft-Certification-Challenge--1-AI_102/tree/master/desafios_de_codigo#associando-os-servi%C3%A7os-de-ia-do-azure)
 
 ## 🎯 Conclusão e Opinião Pessoal
 
